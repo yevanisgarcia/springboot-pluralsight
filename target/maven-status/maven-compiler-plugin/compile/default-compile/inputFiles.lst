@@ -1,9 +1,0 @@
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SessionsController.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SessionRepository.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Session.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/ConferenceDemoApplication.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/SpeakersController.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/controllers/HomeController.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/repositories/SpeakerRepository.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/models/Speaker.java
-/Users/yevanisgarcia/Projects/SpringBoot/springboot-pluralsight/conference-demo/src/main/java/com/pluralsight/conferencedemo/config/PersistenceConfiguration.java
